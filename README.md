@@ -1,6 +1,9 @@
 # memory-game
 HTML, CSS, Java Script, jQuery
 
+"How strong is your memory? 🧠
+https://thearzuyilmaz.github.io/memory-game/
+
 Start the game: Press any key to begin.
 Watch the sequence: The computer will show a color. 
 At each new level, it adds one more color to the sequence.
